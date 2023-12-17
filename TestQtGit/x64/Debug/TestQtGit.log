@@ -1,0 +1,9 @@
+﻿  uic TestQtGit.ui
+  rcc TestQtGit.qrc
+  moc TestQtGit.h
+   RCC: Warning: No resources in 'E:\qt_pro\TestQtGit\TestQtGit\TestQtGit.qrc'.
+  TestQtGit.cpp
+  main.cpp
+  qrc_TestQtGit.cpp
+  moc_TestQtGit.cpp
+  TestQtGit.vcxproj -> E:\qt_pro\TestQtGit\x64\Debug\TestQtGit.exe
