@@ -25,8 +25,11 @@ void TestQtGit::mytextfun()
 {
 	QString str;
 	
-	int n;
+	int n,m;
 	n = 10;
-	str = QString::number(n);
+	m = 20;
 
+	str = QString::number(m+n);
+
+	qDebug() << "str is :" << str;
 }
